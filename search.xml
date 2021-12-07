@@ -3,7 +3,7 @@
   <entry>
     <title>Nessus全版本破解安装</title>
     <url>/2021/11/24/nessus/</url>
-    <content><![CDATA[<h1 id="0x01-前言"><a href="#0x01-前言" class="headerlink" title="0x01 前言"></a>0x01 前言</h1><p>最近要对内网服务器进行主机漏洞扫描,首选还是Nessus，网上也有很多师傅写过关于Nessus破解教程，破解过程基本都一样没什么特殊，本文重点还是写一些破解中发现的问题还有解决办法。相关安装破解过程简写</p>
+    <content><![CDATA[<h1 id="0x01-前言"><a href="#0x01-前言" class="headerlink" title="0x01 前言"></a>0x01 前言</h1><p>最近要对内网服务器进行主机漏洞扫描,首选还是Nessus，网上也有很多师傅写过关于Nessus破解教程，破解过程基本都一样没什么特殊，本文重点还是写一些破解中发现的问题还有解决办法。相关安装破解过程简写。</p>
 <span id="more"></span>
 <h1 id="0x02-Nessus简介"><a href="#0x02-Nessus简介" class="headerlink" title="0x02 Nessus简介"></a>0x02 Nessus简介</h1><p>Nessus是目前全世界最多人使用的系统漏洞扫描与分析软件。总共有超过75,000个机构使用 Nessus 作为扫描该机构电脑系统的软件。Nessus号称是世界上最流行的漏洞扫描程序,通常包括成千上万的最新的漏洞，各种各样的扫描选项，及易于使用的图形界面和有效的报告。</p>
 <h1 id="0x03-Nessus下载"><a href="#0x03-Nessus下载" class="headerlink" title="0x03 Nessus下载"></a>0x03 Nessus下载</h1><p>进入官网下载地址，根据自己的操作操作系统选择下载的版本。本文以windows系统为例。<br>·官网下载地址: <a href="https://www.tenable.com/downloads/nessus">https://www.tenable.com/downloads/nessus</a> Windows下载msi安装文件即可。</p>
